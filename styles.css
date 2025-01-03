@@ -84,4 +84,18 @@ footer {
 footer a {
     color: #78C2D7;
     text-decoration: none;
+    .telegram-button button {
+    background-color: #0088cc;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    font-size: 16px;
+    cursor: pointer;
+    border-radius: 5px;
+    text-align: center;
+}
+.telegram-button button:hover {
+    background-color: #006699;
+}
+
 }
